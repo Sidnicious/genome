@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<promethease>
+<!-- For more information visit http://www.snpedia.com/index.php/Promethease/xml -->
+    <run>
+      <infile>/tmp/tmpx2HfzX</infile>
+
+      <ethnicity>CEU</ethnicity>
+      <outfile>
+        ondemand-scratch/db0f1fe9e-dc7b-4cbc-b519-642fcf535a2f/report.html
+      </outfile>
+    </run>
+
+</promethease>
